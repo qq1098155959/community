@@ -1,4 +1,4 @@
-package com.weimu.community.community;
+package com.weimu.community;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

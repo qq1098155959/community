@@ -1,4 +1,4 @@
-package com.weimu.community.community;
+package com.weimu.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
